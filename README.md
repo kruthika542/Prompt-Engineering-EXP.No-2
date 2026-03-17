@@ -24,6 +24,6 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 [analyse.docx](https://github.com/user-attachments/files/26060515/analyse.docx)
 
-
 **RESULT**
-<img width="775" height="652" alt="image" src="https://github.com/user-attachments/assets/3a2b30b8-0be4-43ae-9684-5e6e34b9de1f" />
+
+<img width="775" height="652" alt="image" src="https://github.com/user-attachments/assets/0a79896d-47b6-411c-83b7-dc6582bb42c6" />
